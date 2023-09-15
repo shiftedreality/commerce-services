@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-openapi-index-md","path":"/openapi/","result":{"pageContext":{"frontmatter":{"title":"Adobe Commerce","openAPISpec":"/openapi.yaml"}}},"staticQueryHashes":["1440646406","3508090095","915530536"]}
+{"componentChunkName":"component---src-pages-openapi-index-md","path":"/openapi/","result":{"pageContext":{"frontmatter":{"title":"Adobe Commerce","description":"This is an OpenAPI test.","openAPISpec":"/openapi.yaml"}}},"staticQueryHashes":["1440646406","3508090095","915530536"]}
